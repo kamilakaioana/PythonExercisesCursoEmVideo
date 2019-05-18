@@ -1,0 +1,2 @@
+# PythonExercisesCursoEmVideo
+Excercises of python
