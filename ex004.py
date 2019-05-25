@@ -2,6 +2,10 @@
 
 m1 = input('escreva algo:')
 print(type(m1))
-print('É um numérico?', m1.isnumeric())
-print('É um alphanumerico?', m1.isalnum())
+print('É um número?', m1.isnumeric())
+print('É alfanúmerico?', m1.isalnum())
 print('É alfabetico?', m1.isalpha())
+print('Está em maiusculas?', m1.isupper())
+print('Está em minusculas?', m1.islower())
+print('Só tem espaços?', m1.isspace())
+
